@@ -31,6 +31,11 @@ The application includes error handling to ensure a smooth user experience. Comm
 - **Frontend:** Built with HTML, CSS, and JavaScript, the frontend offers a simple and intuitive interface for interacting with notes.
 - **Database:** MariaDB is used to store notes, ensuring data persistence.
 
+## How to start
+Clone the project
+npm install
+setup mariadb
+start the server with npx ts-node src/index.ts
 **Skills Demonstrated:** Node.js, TypeScript, JavaScript, HTML, CSS, MariaDB.
 ## Screen shots
 - **Front home page**
