@@ -36,7 +36,10 @@ Clone the project
 npm install
 setup mariadb
 start the server with npx ts-node src/index.ts
-**Skills Demonstrated:** Node.js, TypeScript, JavaScript, HTML, CSS, MariaDB.
+
+## Skills Demonstrated
+Node.js, TypeScript, JavaScript, HTML, CSS, MariaDB.
+
 ## Screen shots
 - **Front home page**
 ![1](https://github.com/user-attachments/assets/21a409a6-1d92-4cf0-b708-fc3ced84cf93)
